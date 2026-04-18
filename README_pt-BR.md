@@ -8,7 +8,7 @@ O objetivo deste projeto é analisar o comportamento de vendas de um e-commerce 
 - oportunidades de melhoria em retenção e estratégia comercial
 A análise tem caráter exploratório, mas orientado à geração de insights aplicáveis ao negócio.
 
-**Fonte de dados**
+**Fonte de dados:**
 Dataset público disponível em:
 https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx
 
@@ -23,7 +23,14 @@ CustomerID (cliente)
 Country (país)
 Sales (valor total da operação)
 
-## 2. Demonstração
+## 2. Arquivos do projeto
+Este repositório contém os seguintes materiais:
+
+- **Notebook (Jupyter):** apresenta as etapas de limpeza, tratamento e análise exploratória dos dados, com maior nível de detalhamento técnico.
+- **Dashboard (Power BI):** reúne as principais visões de negócio, destacando padrões de receita, comportamento dos clientes e indicadores relevantes.
+- **Imagem do Dashboard:** visualização demonstrativa do resultado final (mostrado abaixo).
+- **README (PT-BR e EN):** documentação do projeto em português e inglês, permitindo melhor acessibilidade conforme a preferência do leitor.
+
 ![Dashboard](Dashboard_ecommerce.png)
 
 ## 3. Etapas do projeto

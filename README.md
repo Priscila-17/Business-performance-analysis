@@ -27,7 +27,14 @@ The dataset contains transactional data, including:
 - Country (country)
 - Sales (total transaction value)
 
-## 2. Demonstration
+## 2. Project Files
+This repository contains the following materials:
+
+- **Notebook (Jupyter):** presents the data cleaning, preprocessing, and exploratory analysis steps, with a higher level of technical detail.
+- **Dashboard (Power BI):** provides the main business views, highlighting revenue patterns, customer behavior, and relevant metrics.
+- **Dashboard Image:** a visual representation of the final result (shown below).
+- **README (PT-BR and EN):** project documentation available in both Portuguese and English, allowing better accessibility based on the reader’s preference.
+
 ![Dashboard](Dashboard_ecommerce.png)
 
 ## 3. Project steps
